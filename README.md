@@ -2,10 +2,8 @@
 ## My name is Emanuel and I'm from Brazil
 
 - 🔭 I’m a third year student of Computer Engineering in Federal University of Rio Grande (FURG)
-- 🌱 I'm also studying in Alura during summer break in university
 - 📚 I speak portuguese and english, but I also understand some spanish and I am currently studying french
 - $\sum$ I have affinity with math related subjects and astronomy
-- ⚡I'm still figuring out what I want to work on, but my goal for now is to learn javascript focusing on backend
 
 ## Tools and technologies I am currently studying:
 
