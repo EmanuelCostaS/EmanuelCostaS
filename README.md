@@ -2,12 +2,12 @@
 ## My name is Emanuel and I'm from Brazil
 
 - 🔭 I’m a third year student of Computer Engineering in Federal University of Rio Grande (FURG)
-- 📚 I speak portuguese and english, but I also understand some spanish and I am currently studying french
+- 📚 I speak portuguese and english, but I am also studying spanish and french. 
 - $\sum$ I have affinity with math related subjects and astronomy
 
 ## Tools and technologies I am currently studying:
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> <img width=50px src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png">&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> 
 
 ## If you want to reach out and collaborate:
 
