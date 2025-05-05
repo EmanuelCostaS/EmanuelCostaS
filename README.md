@@ -3,6 +3,7 @@
 
 - 🎓 I’m a fourth-year Computer Engineering student at Federal University of Rio Grande (FURG)
 - 🔬 Undergraduate Research Assistant, working on multisensory UAV navigation without GNSS
+- 🎮 Currently working with a small team to develop an indie game
 - 🌍 I speak portuguese and english, but I am also studying spanish and french. 
 - 🚀 Passionate about math, astronomy, AI, and game development
 
